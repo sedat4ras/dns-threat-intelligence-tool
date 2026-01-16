@@ -42,7 +42,7 @@ The Matrix: A 3-panel executive view including Threat Map, Ranked List, and VT R
 Visual Alarms: Clearly marks domains confirmed as malicious by external intelligence for immediate attention.
 
 How to Read the Dashboard
-The final output is an Executive Intelligence Report (v1.0):
+The final output is an Executive Intelligence Report (v1.0). Use the following guide to interpret the data:
 
 X-Axis (Entropy): Measures domain name randomness. High values (>3.5) are considered suspicious.
 
@@ -96,4 +96,6 @@ python src/visualizer.py
 Professional Disclaimer
 DISCLAIMER: All findings presented in this dashboard are visualized using independent statistical algorithms and heuristic methodologies. These results are for informational purposes only and do not guarantee definitive outcomes or absolute certainty. Final human analysis is always recommended for security-critical decisions.
 
-author : sedat4ras
+Author: sedat4ras
+
+Version: v1.0 (Initial Release)
